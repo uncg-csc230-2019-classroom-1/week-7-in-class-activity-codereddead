@@ -6,12 +6,12 @@ Problem Description:
 A complex number is a number of the form  , where a and b are real numbers and i is  . The numbers a and b are known as the real part and imaginary part of the complex number, respectively. You can perform addition, subtraction, multiplication, and division for complex numbers using the following formula:
 
  
- 
+
   
- 
+
 
 You can also obtain the absolute value for a complex number using the following formula:
-  
+
 
 (A complex number can be interpreted as a point on a plane by identifying the   values as the coordinates of the point. The absolute value of the complex number corresponds to the distance of the point to the origin, as shown in Figure 13.12b.)
 
@@ -35,4 +35,4 @@ Enter the second complex number: -3.5 1
 
 
 Design:
-Draw the UML class diagram for the Complex class here.
+![ComplexUML](https://github.com/uncg-csc230-2019-classroom-1/week-7-in-class-activity-codereddead/blob/master/ComplexUML.PNG)
