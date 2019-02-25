@@ -34,6 +34,6 @@ Enter the second complex number: -3.5 1
 
 
 
-Design:  \s \s
+Design:  
 
 ![ComplexUML](https://github.com/uncg-csc230-2019-classroom-1/week-7-in-class-activity-codereddead/blob/master/ComplexUML.PNG)
